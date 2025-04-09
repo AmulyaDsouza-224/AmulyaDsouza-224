@@ -1,4 +1,4 @@
-#- 👋 Hey there Amulya here
+- 👋 Hey there Amulya here
 - 👀 I’m interested in Astronomy
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on many projects upcoming sem
