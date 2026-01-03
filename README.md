@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 CS undergrad who enjoys breaking and fixing code<br><br>🧠 DSA grinder | C & Java (logic > shortcuts)<br><br>⚛️ Quantum-curious, system-level thinker<br><br>🐞 Debugs calmly, learns fast<br><br>🏎️ F1 mindset: analyze, optimize, repeat
+👩‍💻 CS undergrad who enjoys breaking and fixing code<br>🧠 DSA grinder | C & Java (logic > shortcuts)<br>⚛️ Quantum-curious, system-level thinker<br>🐞 Debug calmly, learn fast<br>🏎️ F1 mindset: analyze, optimize, repeat
 
 
 ## 🌐 Socials:
